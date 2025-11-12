@@ -1,6 +1,6 @@
 # threejs-act4.2-4.3
 
-
+Note: The static folder in Activity 4.2 can't be uploaded because the file is too large.
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
 Run this followed commands:
